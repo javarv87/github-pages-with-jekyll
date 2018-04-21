@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My Personal Blog
+author: Javier Ruiz Vázquez
+email: java.rv87@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a first part of my personal blog where you will learn about angular, javascript, firebase and google cloud platform and more
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @_javaruiz
+github_username:  javarv87
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
